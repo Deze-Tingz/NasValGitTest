@@ -4,5 +4,7 @@ Test 1
 
 Testing after the first push!!!
 
+Testing git commands in Git Bash
+
 /// You can add your code here so I know this is working ///
 
