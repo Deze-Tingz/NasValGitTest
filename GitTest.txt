@@ -2,9 +2,14 @@ Test 1
 
 //Vals Code//
 
+
+/// You can add your code here so I know this is working ///
+// Hi there! i can see you did it! bravo!
+=======
 Testing after the first push!!!
 
 Testing git commands in Git Bash
+
 
 /// You can add your code here so I know this is working ///
 // You did it! bravo!
